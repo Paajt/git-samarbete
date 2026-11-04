@@ -1,2 +1,1 @@
-# git-samarbete
-Seminarie: Git-samarbete
+# Seminarie: Git-samarbete
