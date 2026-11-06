@@ -1,0 +1,12 @@
+body {
+  background-color: yellow;
+  color: black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20rem;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
